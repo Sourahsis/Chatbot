@@ -1,4 +1,3 @@
-pip install google
 import google.generativeai as palm
 palm.configure(api_key='AIzaSyCw9UHFLxolOl9fEBLnwFedqMBC6Sj8nPk')
 # Use the palm.list_models function to find available models:
